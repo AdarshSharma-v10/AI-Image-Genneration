@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+* Detects the encoding of a file based on its contents. If it is not UTF
+
